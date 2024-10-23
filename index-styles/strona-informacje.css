@@ -69,6 +69,7 @@
         font-size: 35px;
         width: 100%;
         flex-direction: column;
+        gap: 80px;
     }
 
 
@@ -96,7 +97,7 @@
 }
 
 
-@media (max-width: 400px)
+@media (max-width: 450px)
 {
     .info-container
     {

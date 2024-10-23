@@ -72,7 +72,7 @@
 @media (max-width: 1300px) {
     .frame-container {
         flex-direction: column;
-        gap: 30px; 
+        gap: 70px; 
         align-items: center;
     }
 
@@ -92,7 +92,7 @@
 
 
 
-@media (max-width: 350px) 
+@media (max-width: 400px) 
 {
 
 
@@ -112,13 +112,13 @@
 
     .fa-clock, .fa-helmet-safety, .fa-paw
     {
-    font-size: 0px;
+    font-size: 20px;
     }
 }
 
 
 
-@media (max-width: 400px) 
+@media (max-width: 450px) 
 {
     .frame-container
     {
